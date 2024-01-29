@@ -5,6 +5,7 @@ Script Usage:
 - **Create wordlist of domains (can store in .txt):**
   
 e.g fakedomain.com
+
     fakedomain1.com
   
 - **Run DMARC_Check:**
