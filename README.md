@@ -4,9 +4,11 @@ Tool used to input wordlist of domains and print out DMARC records into a CSV fi
 Script Usage:
 - **Create wordlist of domains (can store in .txt):**
   
-e.g fakedomain.com
+e.g: 
 
-    fakedomain1.com
+fakedomain.com
+
+fakedomain1.com
   
 - **Run DMARC_Check:**
   
