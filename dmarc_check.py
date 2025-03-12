@@ -9,7 +9,7 @@ print ("| | | || |\/| ||  _  ||    / | |      ")
 print ("| |/ / | |  | || | | || |\ \ | \__/\  ")
 print ("|___/  \_|  |_/\_| |_/\_| \_| \____/  ")
 print ("                                        ")
-print ("    James Korexenos @ Security in Depth")
+print ("    Maker                              ")
 print("\n")
 
 def main():
